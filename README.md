@@ -3,7 +3,6 @@ Simple General Purpose Processor
 An 8-bit general-purpose processor designed and implemented in VHDL
 
 Overview:
-
 Designed and implemented a processor architecture using interconnected VHDL components to perform arithmetic and logical operations on 8-bit data and display results through FPGA hardware.
 
 Components:
